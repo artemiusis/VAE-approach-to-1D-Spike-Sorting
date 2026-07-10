@@ -1,0 +1,6 @@
+numpy
+tensorflow
+spikeinterface
+matplotlib
+scikit-learn
+jupyter
